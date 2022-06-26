@@ -27,3 +27,21 @@ The project is database system
 - attributes mapping (composite, multiValued, attribute on relation):
 
 ![mapping](https://user-images.githubusercontent.com/92521186/175804292-1ddcae32-40e3-4a14-b761-130616158478.jpeg)
+
+## The steps of project :
+1- Creating the tables and relationships of ERD physically on oracle SQL Developer.
+
+2- Using Oracle forms builder to create three data entry forms or any other form with a valid functionality. The forms utilizes all the following :
+- Check box
+- Radio buttons
+- Combo box
+- List of Values (LOV)
+- Triggers
+- Alert
+- Master Detail
+- Calculated fields (formula & summary)
+
+3- Using Oracle reports builder to create a report covers all the following :
+- Group field
+- Summary function
+- User parameters
