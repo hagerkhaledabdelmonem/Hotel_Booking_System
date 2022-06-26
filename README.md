@@ -18,6 +18,12 @@ The project is database system
 
 ![ERD](https://user-images.githubusercontent.com/92521186/175804288-b3908f5e-a5a9-459a-a239-7101381c0e87.png)
 
-### Designing schema of project covering some points such as: ([relationship mapping (1:1, 1: M, M: N)], [attributes mapping (composite, multiValued, attribute on relation)], ...).
+### Designing schema of project covering some points such as: , ...).
+
+- relationship mapping (1:1, 1: M, M: N):
+
+![Cardinality Ratio](https://user-images.githubusercontent.com/92521186/175804454-ba2778ae-4d3a-475e-9942-47b215b54e5b.png)
+
+- attributes mapping (composite, multiValued, attribute on relation):
 
 ![mapping](https://user-images.githubusercontent.com/92521186/175804292-1ddcae32-40e3-4a14-b761-130616158478.jpeg)
