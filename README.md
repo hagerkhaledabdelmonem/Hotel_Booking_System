@@ -14,3 +14,6 @@ The project is database system
 - Each bill has unique ID and may have discount. 
 - We keep track of total price and pay time.
 
+ER Diagram for project covering some points such as: (entities, attributes, relationships, cardinality ratio of relationships, primary keys, attribute types, ...).
+
+Designing schema of project covering some points such as: ([relationship mapping (1:1, 1: M, M: N)], [attributes mapping (composite, multiValued, attribute on relation)], ...).
