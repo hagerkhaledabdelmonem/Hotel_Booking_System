@@ -1,6 +1,6 @@
 # Hotel_Booking_System
 The project is a database management system 
-##Descriptionof the project:
+## Descriptionof the project :
 ### The hotel has EMPLOYEES 
 - Each employee has a name, social security number, address, salary, sex, job and birthdate. 
 ### Many employees service customers.
