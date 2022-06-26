@@ -1,1 +1,2 @@
-# Hotel_Booking_System_Database
+# Hotel_Booking_System
+The project is database system 
