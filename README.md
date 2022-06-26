@@ -16,9 +16,8 @@ The project is database system
 
 ER Diagram for project covering some points such as: (entities, attributes, relationships, cardinality ratio of relationships, primary keys, attribute types, ...).
 
+![ERD](https://user-images.githubusercontent.com/92521186/175804288-b3908f5e-a5a9-459a-a239-7101381c0e87.png)
+
 Designing schema of project covering some points such as: ([relationship mapping (1:1, 1: M, M: N)], [attributes mapping (composite, multiValued, attribute on relation)], ...).
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+
+![mapping](https://user-images.githubusercontent.com/92521186/175804292-1ddcae32-40e3-4a14-b761-130616158478.jpeg)
